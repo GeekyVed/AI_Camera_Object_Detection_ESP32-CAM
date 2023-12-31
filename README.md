@@ -41,14 +41,14 @@ This project aims to create a versatile AI Camera by integrating the ESP32 CAM M
 ## Project Layout
 
 
-![proj_layout](https://github.com/GeekyVed/AI_Camera_Object_Detection-ESP32-CAM-/assets/121000404/413de728-0b4e-4ec4-888c-6faee44a825a)
+![proj_layout](https://github.com/GeekyVed/AI_Camera_Object_Detection_ESP32-CAM/assets/121000404/a311d4aa-624f-4ecd-ba3f-30778ed3e68b)
 
 
 ## Project Schematic Design
 
-![TFT](https://github.com/GeekyVed/AI_Camera_Object_Detection-ESP32-CAM-/assets/121000404/9c1737d6-492d-4bf2-9247-6f836e57a476)
+![TFT](https://github.com/GeekyVed/AI_Camera_Object_Detection_ESP32-CAM/assets/121000404/47d5df28-42e3-4ddb-b31c-9b2ee36a5409)
 
-![ESP32CAM](https://github.com/GeekyVed/AI_Camera_Object_Detection-ESP32-CAM-/assets/121000404/61bd1bf3-abe7-450c-bb67-b55e322fed1b)
+![ESP32CAM](https://github.com/GeekyVed/AI_Camera_Object_Detection_ESP32-CAM/assets/121000404/b8ef8cfc-681f-45f7-a792-4362115206a8)
 
 ## Connections 
 <table>
